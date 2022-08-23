@@ -1,1 +1,1 @@
-Proposta de software para gestao administrativa de condominio, primeira parte do projeto de database
+Proposta de software para gestao administrativa de condominio, primeira parte do projeto de database![Captura de Tela (368)](https://user-images.githubusercontent.com/58758617/186046673-401dc92e-2906-4c11-9fad-d2dafa9dc615.png)
