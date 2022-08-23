@@ -1,0 +1,1 @@
+Proposta de software para gestao administrativa de condominio, primeira parte do projeto de database
